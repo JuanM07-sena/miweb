@@ -36,7 +36,17 @@ Este informe resume algunos de los comandos de Git y el paso a paso para enviar 
 
 ## Paso a paso para subir un proyecto a GitHub
 
-- Una vez tengas el repositorio local listo para subirlo a la nube, tienes que conectarlo al repositorio GitHub el cuál será con este comando:
+- Una vez tengas el repositorio local listo para subirlo a la nube, tienes que conectarlo al repositorio GitHub el cuál será con este comando, este comando sube el proyecto local al repositorio remoto en GitHub por primera vez y establece una conexión entre la rama local master(principal) y la rama remota(la de GitHub) para futuros envíos de cambios.
 <img width="502" height="33" alt="image" src="https://github.com/user-attachments/assets/2e13ff46-705f-4943-adae-1afb30a71c1b" />
+
+- Este comando sube el proyecto local al repositorio remoto por primera vez y vincula la rama local master con la rama remota para futuras actualizaciones.
+<img width="478" height="186" alt="image" src="https://github.com/user-attachments/assets/833163df-11c6-4a94-ac9d-1720252546ff" />
+
+- Crea una nueva rama llamada ramaC (puede ser cualquier nombre que pongas) y cambia a ella para trabajar de forma independiente sin afectar la rama principal.
+  <img width="528" height="55" alt="image" src="https://github.com/user-attachments/assets/2e89662c-f608-41ff-9c27-dfff8d6af914" />
+
+  - Envía la nueva rama ramaC al repositorio remoto y la deja conectada para sincronizar los cambios mejor.
+    <img width="566" height="150" alt="image" src="https://github.com/user-attachments/assets/c4b9c52e-6cf0-4980-8eb3-08929e733ef4" />
+
 
 
