@@ -1,8 +1,7 @@
-# Informe-Git-y-GitHub
-Informe sobre Git y Git Hub
+<img width="502" height="33" alt="image" src="https://github.com/user-attachments/assets/6bbc715d-3602-430c-843c-ef6ddfb24ac5" /># Informe-Git-y-GitHub
 <img width="347" height="145" alt="download" src="https://github.com/user-attachments/assets/3872a962-988c-4eb5-8467-cd60e014b3db"/>
 
- > Instrucciones:
+ > Instrucciones puestas por el instructor:
 
 - Mira atentamente los dos videos asignados sobre Git y GitHub.
 
@@ -36,4 +35,8 @@ Este informe resume algunos de los comandos de Git y el paso a paso para enviar 
 | `git pull` | Descarga y fusiona los últimos cambios del repositorio remoto. |
 
 ## Paso a paso para subir un proyecto a GitHub
+
+- Una vez tengas el repositorio local listo para subirlo a la nube, tienes que conectarlo al repositorio GitHub el cuál será con este comando:
+<img width="502" height="33" alt="image" src="https://github.com/user-attachments/assets/2e13ff46-705f-4943-adae-1afb30a71c1b" />
+
 
