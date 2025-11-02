@@ -51,6 +51,11 @@ Este informe resume algunos de los comandos de Git y el paso a paso para enviar 
   - Ya una vez hayas hecho lo anterior, al recargar la página de github, ya aparecerían los archivos subidos a tu repositorio GitHub.
     <img width="1258" height="442" alt="image" src="https://github.com/user-attachments/assets/2beddd82-0129-4964-ba74-c497c1516a85" />
 
+  - Te aparecera esta opción la cuál es para cambiar de la rama principal a otras ramas que tu hayas creado aparte, como puedes ver yo cree la ramaC.
+    <img width="416" height="345" alt="image" src="https://github.com/user-attachments/assets/fca139a7-a77a-4f45-84d1-e9115462e712" />
+- Cómo ves, al seleccionar otra rama, aparecerán los archivos y el proyecto que trabajaste desde esa rama, sin afectar la rama principal que en mi caso es el master.
+<img width="932" height="436" alt="image" src="https://github.com/user-attachments/assets/68ccd538-edb8-460a-8a2d-47aa51f9cd93" />
+
 
 
 
