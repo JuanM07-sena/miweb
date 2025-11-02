@@ -15,25 +15,22 @@ Informe sobre Git y Git Hub
 
 - Sube tu informe al repositorio de GitHub y comparte el enlace como entrega.
 
+## Introducción breve
+
+Este informe resume algunos de los comandos de Git y el paso a paso para enviar cambios a un repositorio en GitHub vistos en los vídeos brindados por el instructor.
 
 
-Principales comandos de Git: 
-Informe sobre Git y GitHub
-📌 Introducción
+##  Principales comandos de Git
 
-Este informe resume, con mis propias palabras, los principales comandos de Git y el proceso paso a paso para enviar cambios a un repositorio en GitHub. Más abajo encontrarás ejemplos de comandos, el flujo completo y plantillas para insertar las capturas de pantalla que evidencien cada etapa.
+| **Comando** | **Descripción** |
+|--------------|----------------|
+| `git init` | Inicializa un nuevo repositorio local en la carpeta actual. |
+| `git status` | Muestra el estado actual de los archivos del proyecto. |
+| `git add .` | Agrega todos los archivos modificados al área de preparación (*staging*). |
+| `git commit -m "mensaje"` | Guarda los cambios con un mensaje descriptivo. |
+| `git branch` | Muestra las ramas disponibles en el repositorio. |
+| `git checkout -b nombre-rama` | Crea una nueva rama y cambia a ella. |
+| `git remote add origin URL` | Conecta el repositorio local con un remoto en GitHub. |
+| `git push -u origin main` | Envía los cambios al repositorio remoto en la rama principal. |
+| `git pull` | Descarga y fusiona los últimos cambios del repositorio remoto. |
 
-🔧 Principales comandos de Git
-Comando	¿Qué hace?	Ejemplo
-git init	Inicializa un repositorio Git en la carpeta actual.	git init
-git status	Muestra el estado de archivos: modificados, en stage, sin trackear.	git status
-git add <archivo> / git add .	Añade archivos al área de staging (prepara para commit).	git add README.md git add .
-git commit -m "mensaje"	Crea un commit (registro) con los cambios en staging y un mensaje descriptivo.	git commit -m "Agrego README inicial"
-git log	Muestra el historial de commits.	git log --oneline
-git branch	Lista ramas locales o crea una nueva (git branch nombre).	git branch feature-x
-git checkout <rama> / git switch <rama>	Cambia a otra rama.	git checkout main
-git merge <rama>	Fusiona otra rama en la rama actual.	git merge feature-x
-git remote add origin <URL>	Conecta el repositorio local con un remoto (ej.: GitHub).	git remote add origin https://github.com/usuario/repo.git
-git push -u origin <rama>	Envía commits al repositorio remoto y enlaza la rama local con la remota.	git push -u origin main
-git pull	Descarga y aplica cambios del remoto a la rama actual.	git pull origin main
-git clone <URL>	Clona un repositorio remoto en tu máquina.	git clone https://github.com/usuario/repo.git
