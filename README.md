@@ -48,5 +48,9 @@ Este informe resume algunos de los comandos de Git y el paso a paso para enviar 
   - Envía la nueva rama (ramaC en mi caso) al repositorio remoto y la deja conectada.
     <img width="566" height="150" alt="image" src="https://github.com/user-attachments/assets/c4b9c52e-6cf0-4980-8eb3-08929e733ef4" />
 
+  - Ya una vez hayas hecho lo anterior, al recargar la página de github, ya aparecerían los archivos subidos a tu repositorio GitHub.
+    <img width="1258" height="442" alt="image" src="https://github.com/user-attachments/assets/2beddd82-0129-4964-ba74-c497c1516a85" />
+
+
 
 
