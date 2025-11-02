@@ -34,7 +34,7 @@ Este informe resume algunos de los comandos de Git y el paso a paso para enviar 
 | `git push -u origin main` | Envía los cambios al repositorio (github) en la rama principal (main). |
 | `git pull` | Descarga y fusiona los últimos cambios del repositorio remoto. |
 
-## Paso a paso para subir un proyecto a GitHub
+## Paso a paso para subir un repositorio de Git a GitHub
 
 - Una vez tengas el repositorio local listo para subirlo a la nube, tienes que conectarlo al repositorio GitHub el cuál será con este comando, este comando sube el proyecto local al repositorio remoto en GitHub por primera vez y establece una conexión entre la rama local master(principal) y la rama remota(la de GitHub) para futuros envíos de cambios.
 <img width="502" height="33" alt="image" src="https://github.com/user-attachments/assets/2e13ff46-705f-4943-adae-1afb30a71c1b" />
