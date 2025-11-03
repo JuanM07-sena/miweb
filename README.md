@@ -1,5 +1,6 @@
 # Informe-Git-y-GitHub
-<img width="347" height="145" alt="download" src="https://github.com/user-attachments/assets/3872a962-988c-4eb5-8467-cd60e014b3db"/>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/6c91fc01-8d87-468c-b7f9-237bc6648478" />
+
 
  > Instrucciones puestas por el instructor:
 
